@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Data_Structure](../01.Data Structure.md)
+[Data_Structure](https://github.com/westlu/westlu.github.io/blob/main/01.Data%20Structure.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
